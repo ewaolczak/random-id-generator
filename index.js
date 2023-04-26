@@ -1,4 +1,4 @@
-const randomId = (idLenght) => {
+const randomId = (idLength) => {
   let id = '';
   const characters =
     'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
